@@ -1,0 +1,22 @@
+1.metal_row
+2.halo_column
+3.halo_zval
+4.metal_zval
+5.metal_column
+6.metal_electron
+7.M-X bond
+8.metal_ionized
+9.halo_ea
+10.metal_en
+11.bond squared
+12.halo_electron
+13.halo_row
+##########################f_regression
+1.metal_row
+2.halo_column
+3.halo_zval
+4.halo_ea
+5.halo_electron
+6.halo_en
+7.halo_row halo_ionized
+
